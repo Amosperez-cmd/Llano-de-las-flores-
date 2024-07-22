@@ -1,10 +1,10 @@
 // Diccionario personalizado para traducción
 const customDictionary = {
-    "hola": "padiuahi",
+    "hola": "padiushi",
     "como": "tianii",
-    "how": "como_custom",
-    "are": "estas_custom",
-    "you": "tu"
+    "estas": "caualuu",
+    "niño": "guaazaa  cuitii",
+    "niña": "ñulaa cuitii"
     // Agrega más palabras y sus traducciones personalizadas aquí
 };
 
