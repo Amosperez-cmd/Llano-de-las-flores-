@@ -5,7 +5,7 @@ const customDictionary = {
     "estas": "caualuu",
     "niño": "guaazaa  cuitii",
     "niña": "ñulaa cuitii"
-    "tu": "luu"
+
     // Agrega más palabras y sus traducciones personalizadas aquí
 };
 
