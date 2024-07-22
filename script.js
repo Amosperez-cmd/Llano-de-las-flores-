@@ -1,7 +1,7 @@
 // Diccionario personalizado para traducción
 const customDictionary = {
-    "hello": "hola_custom",
-    "world": "mundo_custom",
+    "hola": "padiuahi",
+    "como": "tianii",
     "how": "como_custom",
     "are": "estas_custom",
     "you": "tu"
